@@ -1,6 +1,6 @@
-# UCSC-RealTimeUnicodeConverter
+# UCSC - Real Time Unicode Converter
 Minor changes of Real Time Unicode Converter
 
 _____________________________________
 
-<a href="ucsc.cmb.ac.lk/ltrl/services/feconverter">ucsc.cmb.ac.lk/ltrl/services/feconverter</a>
+<a href="http://ucsc.cmb.ac.lk/ltrl/services/feconverter">ucsc.cmb.ac.lk/ltrl/services/feconverter</a>
